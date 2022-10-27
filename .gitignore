@@ -1,0 +1,3 @@
+*.tfvars
+.terraform
+ip_Ubuntu.txt

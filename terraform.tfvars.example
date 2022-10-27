@@ -1,0 +1,4 @@
+region        = ""
+do_token      = ""
+ssh_keys_name = ""
+# Complete the fields in blank end save like terraform.tfvars only
